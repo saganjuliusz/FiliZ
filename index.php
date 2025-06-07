@@ -1,4 +1,5 @@
-﻿<?php
+﻿<!--Copyright by Juliusz Sagan. The right to copy is strictly prohibited! It is forbidden to use resources inappropriately!-->
+<?php
 // Funkcja do konwersji polskich znaków w URL
 function convertToPolishUrl($string) {
     $polishChars = array('ą', 'ć', 'ę', 'ł', 'ń', 'ó', 'ś', 'ź', 'ż', 'Ą', 'Ć', 'Ę', 'Ł', 'Ń', 'Ó', 'Ś', 'Ź', 'Ż');
@@ -319,3 +320,4 @@ foreach ($pathParts as $part) {
     </script>
 </body>
 </html>
+<!--Copyright by Juliusz Sagan. The right to copy is strictly prohibited! It is forbidden to use resources inappropriately!-->
